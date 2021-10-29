@@ -13,5 +13,5 @@
   </a>
 </p>
 <div align=center>
-    <img src="https://i.imgur.com/Or2jLD3.jpg">
+    <img src="https://i.imgur.com/7ovmumk.jpg">
 </div>
